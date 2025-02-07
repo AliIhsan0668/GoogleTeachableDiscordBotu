@@ -61,4 +61,4 @@ async def check(ctx):
 
     await ctx.send(cevap)
 
-bot.run("MTI3NTA0ODQ1MTIwNTUwMTAzMQ.GRFasI.pZ73MMFAGPVIsrzjxdpVaMCc34kiz7qAeosy04")
+bot.run("TOKEN")
